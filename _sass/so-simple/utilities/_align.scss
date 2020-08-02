@@ -22,7 +22,7 @@
 }
 
 /*
-   Image Alignment
+   Image & Video Alignment
    ========================================================================== */
 
 .align-center,
@@ -57,4 +57,8 @@ a img.align-left {
   margin-right: 1rem;
   margin-bottom: 1rem;
   float: left;
+}
+
+.embed-container.align-center {
+  text-align: center;
 }

@@ -113,6 +113,7 @@
   padding-right: 0.5em;
   font-size: 1rem;
   font-weight: normal;
+  font-family: $sans-serif-font-family;
   text-transform: uppercase;
 
   @include breakpoint($large) {
@@ -130,6 +131,7 @@
   margin-right: 1em;
   padding: 0;
   list-style: none;
+  font-family: $sans-serif-font-family;
 
   @include breakpoint($large) {
     display: block;

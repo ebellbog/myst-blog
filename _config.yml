@@ -17,11 +17,11 @@
 remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
-baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: # path of site logo, e.g. "/images/logo.png"
+title: "The Myst Documentary Blog"
+description: "Official updates from Philip Shane & the team"
+baseurl: #"blog"
+url: "https://themystdocumentary.com"
+logo: "/assets/img/tmd_logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
@@ -30,7 +30,7 @@ mathjax:
   combo:  # "tex-svg" (default), "tex-mml-chtml", etc.: docs.mathjax.org/en/latest/web/components/combined.html
   tags:  # "none", "ams" (default), "all"
 google_fonts:
-  - name: "Source Sans Pro"
+  - name: "Exo 2"
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
@@ -55,7 +55,7 @@ feed:
 # paginate_path: /page:num/
 
 # Search
-search_full_content: false # can have performance implications for large sites
+search_full_content: true # can have performance implications for large sites
 
 # Taxonomy pages
 # category_archive_path: "/categories/#"
@@ -102,6 +102,20 @@ author:
 
 # Footer Links
 footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+  - title: Kickstarter
+    url: https://www.kickstarter.com/projects/philipshane/the-myst-documentary
+    icon: fab fa-fw fa-kickstarter
+  - title: Facebook
+    url: https://www.facebook.com/theMYSTdoc/
+    icon: fab fa-fw fa-facebook-square
+  - title: Twitter
+    url: https://twitter.com/TheMystDoc/
+    icon: fab fa-fw fa-twitter
+  - title: Instagram
+    url: https://www.instagram.com/TheMystDoc/
+    icon: fab fa-fw fa-instagram
+  - title: Contact
+    url: mailto:info@themystdocumentary.com
+    icon: fas fa-fw fa-envelope
+
+copyright: "content &copy; Glorious Nerds &nbsp;•&nbsp; web design &copy; Elana Bell Bogdan"

@@ -8,6 +8,7 @@ html {
 
 body {
   border-top: solid 0.25em;
+  // box-shadow: inset 0 0 20px black;
 }
 
 blockquote,
@@ -96,8 +97,9 @@ pre {
 }
 
 figcaption {
-  margin: 0.5rem 0;
-  font-size: 80%;
+  margin: 0.5rem 1.5rem;
+  font-size: 75%;
+  font-style: italic;
 }
 
 a {
