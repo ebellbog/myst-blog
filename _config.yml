@@ -19,7 +19,7 @@ skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "The Myst Documentary Blog"
 description: "Official updates from Philip Shane & the team"
-baseurl: "myst-blog"
+baseurl: "/myst-blog"
 url: "//elanabellbogdan.com"
 logo: "/assets/img/tmd_logo.png"
 date_format: "%B %-d, %Y"
