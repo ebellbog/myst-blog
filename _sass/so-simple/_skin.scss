@@ -39,7 +39,7 @@ blockquote {
 }
 
 .taxonomy-title {
-  color: lighten($text-color, 60%);
+  color: white;
 }
 
 .taxonomy-count {
@@ -63,7 +63,7 @@ blockquote {
 }
 
 .back-to-top {
-  color: lighten($text-color, 50%);
+  color: $accent-color;
 }
 
 .site-nav {
@@ -93,7 +93,7 @@ blockquote {
 }
 
 .site-logo-img {
-  // border-color: $text-colo;
+  border: none;
 }
 
 .toc-wrapper {
