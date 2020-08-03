@@ -15,7 +15,7 @@ $nav-color: #fff !default;
 $background-color: #F4E9C9 !default;
 $nav-background-color: #62441a !default;
 $code-background-color: tint($base-color, 95%) !default;
-$border-color: tint($base-color, 73%) !default;
+$border-color: transparentize($base-color, .65) !default;
 
 $primary-color: #62441a !default;
 $success-color: #62c462 !default;
