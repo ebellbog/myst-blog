@@ -32,9 +32,9 @@ blockquote {
 
 .copyright {
   font-family: $sans-serif-font-family;
-  color: transparentize($text-color, .6);
+  color: transparentize($text-color, .5);
   a {
-    color: transparentize($text-color, .6);
+    color: transparentize($text-color, .5);
   }
 }
 

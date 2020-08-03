@@ -18,7 +18,7 @@ remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "The Myst Documentary Blog"
-description: "Official updates from Philip Shane & the team"
+description: "Official updates from Philip Shane & the crew"
 baseurl: "/myst-blog"
 url: "//elanabellbogdan.com"
 logo: "/assets/img/tmd_logo.png"
