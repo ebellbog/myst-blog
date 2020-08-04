@@ -17,6 +17,8 @@
 }
 
 .author-name {
+  font-family: $sans-serif-font-family;
+
   @include breakpoint($large) {
     margin-bottom: 0.5em;
   }
