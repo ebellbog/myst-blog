@@ -279,6 +279,12 @@
     // display: grid fallback
     clear: both;
   }
+
+  .page-kickstarter {
+    font-style: italic;
+    font-family: $serif-font-family;
+    margin-bottom: 20px;
+  }
 }
 
 .page--wide {

@@ -1,9 +1,12 @@
 # Sample Authors
 # Remove file or replace with your own
 
-philipshane:
+philip:
   name: Philip Shane
   picture: /assets/img/philip.jpg
-katiepostma:
+katie:
   name: Katie Postma
   picture: /assets/img/katie.jpg
+crew:
+  name: The Crew
+  picture: /assets/img/crew.jpg

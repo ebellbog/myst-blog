@@ -22,6 +22,11 @@ layout: default
       </div>
 
       <div class="page-content">
+        {% if page.kickstarterId %}
+          <div class="page-kickstarter">
+            <a href="https://www.kickstarter.com/projects/philipshane/the-myst-documentary/posts/{{page.kickstarterId}}">This post was originally shared as a backer update on Kickstarter.</a>
+          </div>
+        {% endif %}
         <div class="e-content">
           {{ content }}
         </div>

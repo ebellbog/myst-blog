@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  It Came From Brooklyn
-author: katiepostma
-tag: Team bio
+author: crew
+tags: ['Team bio','Origin stories']
 share: false
+kickstarterId: 2909059
 ---
 
 Documentary filmmaker Philip Shane has made films about famous people before – Albert Einstein, in his biography for the History Channel; the man behind the beloved muppet character, Elmo, in *Being Elmo: A Puppeteer’s Journey*; even Paul McCartney for the post-Beatles TV doc, *Wingspan*. But one of his greatest thrills was meeting two brothers – Rand and Robyn Miller – who were responsible for one of his all-time favorite video-game universes: the *Myst* franchise.
